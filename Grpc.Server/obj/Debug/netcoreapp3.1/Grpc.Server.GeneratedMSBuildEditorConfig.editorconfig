@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Grpc.Server
+build_property.ProjectDir = C:\Users\Administrator\source\repos\IdentityServer4.0\Grpc.Server\
